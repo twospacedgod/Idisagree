@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Znunu/Idisagree/master/media/idisagree.png" width=50%>  
 </p>
-<h1 align="center">Idisagree v1.0</h1>
+<h1 align="center">Idisagree v1.1</h1>
 <p align="center">
   Control remote computers using discord bot and python 3.
 </p>
@@ -13,17 +13,19 @@
 
 ### RUNNING
 
-```
-cd Idisagree
-```
+- Create a bot
+- Add the bot to your server
+- Clone the repository
+- Install discord.py
+- Run the `Idisagree.py` file
+- Enter the token of your bot, when asked
+- A `RunOnTarget.py` file will be created
+- Run the `RunOnTarget.py` file
+- In your server send `idisagree` in any channel
+- You can now use the channel as if it was cmd
+- Send `idisagree` to stop it again
 
-```
-sudo pip3 install -r requirements.txt
-```
 
-```
-python3 Idisagree.py
-```
 ### SCREENSHOT
 ![Shot](https://github.com/Znunu/Idisagree/blob/master/media/sc.png)
 
