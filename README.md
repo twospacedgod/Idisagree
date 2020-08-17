@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Idisagree/master/idisagree.png" width=50%>  
+  <img src="https://raw.githubusercontent.com/Znunu/Idisagree/master/media/idisagree.png" width=50%>  
 </p>
 <h1 align="center">Idisagree v1.0</h1>
 <p align="center">
@@ -50,7 +50,7 @@ sudo pip3 install -r requirements.txt
 python3 Idisagree.py
 ```
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/Idisagree/blob/master/sc.png)
+![Shot](https://github.com/Znunu/Idisagree/blob/master/media/sc.png)
 
 
 ## DISCLAIMER
@@ -79,5 +79,5 @@ Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
 ### VIDEO DEMO
 <p align="center">
 <a href="https://youtu.be/aXYaR-eEKzg">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Idisagree/master/video.png" />
+  <img src="https://raw.githubusercontent.com/Znunu/Idisagree/master/media/video.png" />
 </a></p>
