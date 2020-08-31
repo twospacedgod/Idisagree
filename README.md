@@ -35,5 +35,3 @@
 <a href="https://youtu.be/aXYaR-eEKzg">
   <img src="https://raw.githubusercontent.com/Znunu/Idisagree/master/media/video.png" />
 </a></p>
-
-helluuuuuuuuuuuu
